@@ -25,7 +25,7 @@ The short video is a low throttle.
 ![图片描述](https://static.rcgroups.net/forums/attachments/1/1/5/3/3/0/a10762871-42-IMG_20180226_122907170.jpg)
 ![图片描述](https://static.rcgroups.net/forums/attachments/1/1/5/3/3/0/a10762872-5-IMG_20180226_122927941.jpg)
 
-
+```
 //Arduino servo flap system
 //copyright Steve Morris 10-25-16
 #include <Servo.h>
@@ -126,6 +126,7 @@ prev_time0 = micros();
 void falling0() {
 attachInterrupt(0, rising0, RISING);
 pwm1_value = micros()-prev_time0;
+```
 }
 void rising4() {
 attachInterrupt(4, falling4, FALLING);
