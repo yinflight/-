@@ -15,17 +15,16 @@ https://www.rcgroups.com/forums/showt...
 Here is the currently used Arduino code modified fro the KST servos.
 The short video is a low throttle.
 
-![1](https://static.rcgroups.net/forums/attachments/1/1/5/3/3/0/a10762864-244-IMG_20180111_193313579.jpg)
+![图片描述](https://static.rcgroups.net/forums/attachments/1/1/5/3/3/0/a10762864-244-IMG_20180111_193313579.jpg)
+![图片描述](https://static.rcgroups.net/forums/attachments/1/1/5/3/3/0/a10762865-133-IMG_20180111_193342606.jpg)
+![图片描述](https://static.rcgroups.net/forums/attachments/1/1/5/3/3/0/a10762866-64-IMG_20180111_193424128.jpg)
+![图片描述](https://static.rcgroups.net/forums/attachments/1/1/5/3/3/0/a10762867-63-IMG_20180111_193432578.jpg)
+![图片描述](https://static.rcgroups.net/forums/attachments/1/1/5/3/3/0/a10762868-239-IMG_20180111_193440355.jpg)
+![图片描述](https://static.rcgroups.net/forums/attachments/1/1/5/3/3/0/a10762869-232-IMG_20180226_122754300.jpg)
+![图片描述](https://static.rcgroups.net/forums/attachments/1/1/5/3/3/0/a10762870-53-IMG_20180226_122838704.jpg)
+![图片描述](https://static.rcgroups.net/forums/attachments/1/1/5/3/3/0/a10762871-42-IMG_20180226_122907170.jpg)
+![图片描述](https://static.rcgroups.net/forums/attachments/1/1/5/3/3/0/a10762872-5-IMG_20180226_122927941.jpg)
 
-https://static.rcgroups.net/forums/attachments/1/1/5/3/3/0/a10762864-244-IMG_20180111_193313579.jpg
-https://static.rcgroups.net/forums/attachments/1/1/5/3/3/0/a10762865-133-IMG_20180111_193342606.jpg
-https://static.rcgroups.net/forums/attachments/1/1/5/3/3/0/a10762866-64-IMG_20180111_193424128.jpg
-https://static.rcgroups.net/forums/attachments/1/1/5/3/3/0/a10762867-63-IMG_20180111_193432578.jpg
-https://redirect.viglink.com/?format=go&jsonp=vglnk_168544968095114&key=5e5e6e04e939b9674c384ca8b03117f4&libId=lia964y1010248ul000UL3cen7m24&loc=https%3A%2F%2Fwww.rcgroups.com%2Fforums%2Fshowthread.php%3F2765781-Arduino-Servo-Flap-System%252Fpage14&v=1&opt=true&out=https%3A%2F%2Fstatic.rcgroups.net%2Fforums%2Fattachments%2F1%2F1%2F5%2F3%2F3%2F0%2Fa10762868-239-IMG_20180111_193440355.jpg&ref=https%3A%2F%2Fwww.youtube.com%2F&title=Arduino%20Servo%20Flap%20System%20-%20Page%2014%20-%20RC%20Groups&txt=
-https://static.rcgroups.net/forums/attachments/1/1/5/3/3/0/a10762869-232-IMG_20180226_122754300.jpg
-https://static.rcgroups.net/forums/attachments/1/1/5/3/3/0/a10762870-53-IMG_20180226_122838704.jpg
-https://static.rcgroups.net/forums/attachments/1/1/5/3/3/0/a10762871-42-IMG_20180226_122907170.jpg
-https://static.rcgroups.net/forums/attachments/1/1/5/3/3/0/a10762872-5-IMG_20180226_122927941.jpg
 
 //Arduino servo flap system
 //copyright Steve Morris 10-25-16
