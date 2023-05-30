@@ -1,5 +1,8 @@
 # blbl-飘扬布鲁斯
-用的这个程序，可以飞，但是转向不是很灵敏，改成转向的时候让一边翅膀少拍，另一边多扑腾就可以了。有高手可以改改这个程序，实在看不懂。https://surin.reru.ac.th/wp-content/uploads/2020/09/flap_control.zip
+[![视频描述](https://img.youtube.com/vi/L3r4dEI-Qwk/hqdefault.jpg)](https://www.youtube.com/embed/L3r4dEI-Qwk)
+
+用的这个程序，可以飞，但是转向不是很灵敏，改成转向的时候让一边翅膀少拍，另一边多扑腾就可以了。有高手可以改改这个程序，实在看不懂。
+https://surin.reru.ac.th/wp-content/uploads/2020/09/flap_control.zip
 https://www.youtube.com/watch?v=L3r4dEI-Qwk&t=1s
 Test Arduino NANO Servo Flap Control Ornithopter wings 
 这是我第二次尝试在伺服动力的鸟。我用的是在Ebay网站https://www.ebay.com/itm/2PCS-Pro-Mi...72.m2749.l2649上买的Arduino中文克隆版，
@@ -8,10 +11,7 @@ KST MS320伺服器，微型接收器和300MA LIPO。
 最大上翼角为80度，下翼角为65度。在节流阀关闭的情况下，机翼的滑翔角大约是向上25度。为了让飞机转起来，代码改变了襟翼的中心角度，这样在全舵状态下，一只翅膀向上约85度，另一只翅膀向下约70度。
 在它的5次飞行中，它的最大高度是10英尺(3.5米)。我已经改变了CG移动电池到前面。我已经改变了尾角从目前的20度上升到5度。这些东西都没有帮助我们达到10英尺以上的高度。”
 code 
-https://surin.reru.ac.th/topics/rc-ro...
-https://www.rcgroups.com/forums/showp...
 
-https://www.rcgroups.com/forums/showt...
 Here is the currently used Arduino code modified fro the KST servos.
 The short video is a low throttle.
 
@@ -126,7 +126,6 @@ prev_time0 = micros();
 void falling0() {
 attachInterrupt(0, rising0, RISING);
 pwm1_value = micros()-prev_time0;
-```
 }
 void rising4() {
 attachInterrupt(4, falling4, FALLING);
@@ -136,3 +135,4 @@ void falling4() {
 attachInterrupt(4, rising4, RISING);
 pwm2_value = micros()-prev_time4;
 }
+```
