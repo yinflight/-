@@ -14,6 +14,9 @@ https://www.rcgroups.com/forums/showp...
 https://www.rcgroups.com/forums/showt...
 Here is the currently used Arduino code modified fro the KST servos.
 The short video is a low throttle.
+
+![1](https://static.rcgroups.net/forums/attachments/1/1/5/3/3/0/a10762864-244-IMG_20180111_193313579.jpg)
+
 https://static.rcgroups.net/forums/attachments/1/1/5/3/3/0/a10762864-244-IMG_20180111_193313579.jpg
 https://static.rcgroups.net/forums/attachments/1/1/5/3/3/0/a10762865-133-IMG_20180111_193342606.jpg
 https://static.rcgroups.net/forums/attachments/1/1/5/3/3/0/a10762866-64-IMG_20180111_193424128.jpg
